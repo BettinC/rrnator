@@ -1,2 +1,2 @@
 # rrnator
-rrnator per ARm
+rrnator per ARM
